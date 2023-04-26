@@ -1,0 +1,1 @@
+If user presses enter. The notes dont get recorded. It only records the first line. From what i can see client side anyway
